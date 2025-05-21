@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d8b466cd-b561-457b-8855-832ff7847545)# LUNet
+# LUNet
 
 ## 1. Download Google pre-trained ViT models
 * [Get models in this link](https://console.cloud.google.com/storage/vit_models/): R50-ViT-B_16, ViT-B_16, ViT-L_16...
