@@ -1,4 +1,4 @@
-# LUNet
+![image](https://github.com/user-attachments/assets/d8b466cd-b561-457b-8855-832ff7847545)# LUNet
 
 ## 1. Download Google pre-trained ViT models
 * [Get models in this link](https://console.cloud.google.com/storage/vit_models/): R50-ViT-B_16, ViT-B_16, ViT-L_16...
@@ -15,6 +15,10 @@ pip install bert-serving-client
 ```
 
 ## 3. Prepare data
+To facilitate data management and model training, this model dataset is in npz format, and the corresponding conversion code is as follows:
+```bash
+python npz.py
+```
 Partial datasets used in this study are included in the file.The complete dataset is available from the corresponding author (shiiziyang1216@163.com) upon reasonable request. To ensure compliance with privacy regulations and licensing terms, requestors must:
 ### Provide institutional affiliation credentials
 ### Submit a signed data use agreement specifying:
