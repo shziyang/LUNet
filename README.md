@@ -9,8 +9,10 @@ mv {MODEL_NAME}.npz ../model/vit_checkpoint/imagenet21k/{MODEL_NAME}.npz
 ```
 ## 2. Deployment BERT model
 Either pip install, or go to hugging Face and download the pre-training weights!(https://huggingface.co/models)
+```bash
 pip install bert-serving-server  
 pip install bert-serving-client 
+```
 
 ## 3. Prepare data
 Partial datasets used in this study are included in the file.The complete dataset is available from the corresponding author (shiiziyang1216@163.com) upon reasonable request. To ensure compliance with privacy regulations and licensing terms, requestors must:
