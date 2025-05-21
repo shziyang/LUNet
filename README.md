@@ -12,12 +12,11 @@ Either pip install, or go to hugging Face and download the pre-training weights!
 pip install bert-serving-server  
 pip install bert-serving-client 
 
-## 3. Prepare data (All data are available!)
+## 3. Prepare data
 Partial datasets used in this study are included in the file.The complete dataset is available from the corresponding author (shiiziyang1216@163.com) upon reasonable request. To ensure compliance with privacy regulations and licensing terms, requestors must:
-Provide institutional affiliation credentials
-Submit a signed data use agreement specifying:
-Intended research purpose
-Non-redistribution commitment
+### Provide institutional affiliation credentials
+### Submit a signed data use agreement specifying:
+Intended research purpose and Non-redistribution commitment
 
 ## 4. Environment
 
