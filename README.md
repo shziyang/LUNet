@@ -23,9 +23,9 @@ Refer to the Text_data.xlsx file for the format of the text data. All text can b
 
 Please describe the Camellia oleifera pests and diseases provided. The description should include the number of leaves, pest and disease characteristics and location. Answers must be based on observations from the image.Example:There is/are [CLS] camellia oil leaf/leaves with [CLS] that is/are located on the [CLS] of the leaf.
 
-###Partial datasets used in this study are included in the file.The complete dataset is available from the corresponding author (edalin@163.com) upon reasonable request. To ensure compliance with privacy regulations and licensing terms, requestors must:
-Provide institutional affiliation credentials
-Submit a signed data use agreement specifying:
+Partial datasets used in this study are included in the file.The complete dataset is available from the corresponding author (edalin@163.com) upon reasonable request. To ensure compliance with privacy regulations and licensing terms, requestors must:
+# Provide institutional affiliation credentials
+# Submit a signed data use agreement specifying:
 Intended research purpose and Non-redistribution commitment
 
 ## 4. Environment
