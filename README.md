@@ -46,6 +46,13 @@ CUDA_VISIBLE_DEVICES=0 python train.py --dataset Synapse --vit_name R50-ViT-B_16
 python test.py --dataset Synapse --vit_name R50-ViT-B_16
 ```
 
+> **The workflow diagram of the intelligent diagnostic system based on the Coze platform is shown below**
+
+
+<p align="center">
+  <img src="./coze example.png"/>
+</p>
+
 ## Reference
 * [Google ViT](https://github.com/google-research/vision_transformer)
 * [TransUNet](https://github.com/Beckschen/TransUNet)
